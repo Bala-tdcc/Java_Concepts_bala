@@ -15,3 +15,12 @@ List Implementations (ArrayList, LinkedList).--Completed
 Set Implementations (HashSet, LinkedHashSet, TreeSet). --Completed
 Map Implementations (HashMap, TreeMap, LinkedHashMap). --Completed
 Generics and Iterator, ListIterator.--Completed
+
+stack
+Queue and Deque (PriorityQueue, ArrayDeque).
+Utility Methods with Collections and Stream API.
+vector
+clone, colneable
+recursion & backtracking
+unknown keywords - instanceof, enum, native, volatile, strict fp
+adb
