@@ -19,8 +19,7 @@ Generics and Iterator, ListIterator.--Completed
 stack
 Queue and Deque (PriorityQueue, ArrayDeque).
 Utility Methods with Collections and Stream API.
-vector
+
 clone, colneable
 recursion & backtracking
 unknown keywords - instanceof, enum, native, volatile, strict fp
-adb
